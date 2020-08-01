@@ -18,7 +18,7 @@ class MyApp extends App {
     const { Component, pageProps } = this.props;
     return (
       <div>
-        <h1>Next JS GTM Test App! WPMMMWF</h1>
+        <h1>Next JS GTM Test App!</h1>
         <Component {...pageProps} />
       </div>
     );

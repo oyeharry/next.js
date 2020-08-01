@@ -19,7 +19,7 @@ class MyApp extends App {
     return (
       <div>
         <h1>Next JS GTM Test App!</h1>
-        <Component {...pageProps} />;
+        <Component {...pageProps} />
       </div>
     );
   }

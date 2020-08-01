@@ -1,10 +1,10 @@
 import Menu from "../components/menu";
 
-export default function AboutPage() {
+export default function UsersPage() {
   return (
     <div>
       <Menu />
-      <h1>This is a About US Page</h1>;
+      <h1>This is a Users Page</h1>;
     </div>
   );
 }

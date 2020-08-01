@@ -1,0 +1,14 @@
+.menuContainer {
+  display: flex;
+  margin-top: 10px;
+}
+
+.menuContainer li {
+  margin-left: 40px;
+  list-style: none;
+}
+
+.menuContainer li a {
+  padding: 8px 16px;
+  border: 1px solid #ccc;
+}

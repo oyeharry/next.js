@@ -1,12 +1,10 @@
-import Link from 'next/link'
+import Menu from "../components/menu";
 
 export default function IndexPage() {
   return (
     <div>
-      Hello World.{' '}
-      <Link href="/about">
-        <a>About</a>
-      </Link>
+      <Menu />
+      <h1> This is a HomePage </h1>
     </div>
-  )
+  );
 }

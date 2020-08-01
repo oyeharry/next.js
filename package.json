@@ -9,7 +9,8 @@
   "dependencies": {
     "next": "latest",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-gtm-module": "^2.0.10"
   },
   "license": "ISC"
 }
